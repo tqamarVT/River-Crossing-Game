@@ -16,7 +16,7 @@ import javax.swing.JPanel;
 /**
  * Graphical interface for the River application
  * 
- * @author Gregory Kulczycki
+ * 
  */
 public class RiverGUI extends JPanel implements MouseListener {
 
